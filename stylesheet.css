@@ -4,19 +4,19 @@ h1 {
 }
 
 .content {
-    background-color: #FFA38C;
+    background-color: #ffa38c;
     padding: 20 px;
 }
 
 #id {
-    background-color: #028A0F;
+    background-color: #028a0f;
 }
 
 a:hover {
-    color: #FFA38C;
+    color: #ffa38c;
 }
 .content {
-    border: 1px solid #028A0F;
+    border: 1px solid #028a0f;
     border-radius: 3px;
 }
 
