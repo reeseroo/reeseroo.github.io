@@ -2,3 +2,21 @@ h1 {
     text-align: center;
     height: 40vmin;
 }
+
+.content {
+    background-color: #FFA38C;
+    padding: 20 px;
+}
+
+#id {
+    background-color: #028A0F;
+}
+
+a:hover {
+    color: #FFA38C;
+}
+.content {
+    border: 1px solid #028A0F;
+    border-radius: 3px;
+}
+
